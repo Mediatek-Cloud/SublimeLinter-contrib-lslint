@@ -1,8 +1,6 @@
 SublimeLinter-contrib-lslint
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-lslint.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-lslint)
-
 This linter plugin for [SublimeLinter][docs] provides an interface to [lslint](__linter_homepage__). It will be used with files that have the “__syntax__” syntax.
 
 ## Installation
@@ -15,7 +13,7 @@ Before using this plugin, you must ensure that `lslint` is installed on your sys
 
 1. Install `lslint` by typing the following in a terminal:
    ```
-   [sudo] nodejs install -g lslint
+   [sudo] npm install -g lslint
    ```
 
 
