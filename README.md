@@ -15,7 +15,7 @@ Before using this plugin, you must ensure that `lslint` is installed on your sys
 
 1. Install `lslint` by typing the following in a terminal:
    ```
-   [sudo] pip install lslint
+   [sudo] nodejs install -g lslint
    ```
 
 
